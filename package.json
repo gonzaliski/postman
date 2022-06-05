@@ -1,0 +1,11 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.40",
+    "express": "^4.18.1",
+    "typescript": "^4.7.3"
+  }
+}
